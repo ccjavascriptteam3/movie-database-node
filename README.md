@@ -1,7 +1,7 @@
 # Movie Database - NodeJS version
 [![Build Status](https://travis-ci.org/ccjavascriptteam3/movie-database-node.png)](https://travis-ci.org/ccjavascriptteam3/movie-database-node)
 
-Another version of the legendary movie database. This time with NodeJS. The app
+Another version of the legendary movie database. This time with NodeJS. The app 
 is being deployed to Heroku after every push. Feel free to check it out:
 [http://movie-database-team3.herokuapp.com/](http://movie-database-team3.herokuapp.com/)!
 
